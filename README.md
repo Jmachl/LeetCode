@@ -1,6 +1,6 @@
 # Personal LeetCode Solutions
      
-   (Portfolio link)[http://machler.xyz/portfolio/leetcode] 
+   [Portfolio link](http://machler.xyz/portfolio/leetcode)
 ### Constraits
  - 1. Time Limit 
  * Easy 10 min 
